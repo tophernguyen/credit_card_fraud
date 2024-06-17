@@ -1,0 +1,32 @@
+The model used is Random Forest classifier
+The accuracy is 0.9995962220427653 
+The precision is 0.9886363636363636
+The recall is 0.7981651376146789
+The F1-Score is 0.883248730964467
+The Matthews correlation coefficient is 0.8881266522651806
+
+The Classification Report is               precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56853
+           1       0.99      0.80      0.88       109
+
+    accuracy                           1.00     56962
+   macro avg       0.99      0.90      0.94     56962
+weighted avg       1.00      1.00      1.00     56962
+
+The model used is Random Forest classifier
+The accuracy is 0.9995611109160493 
+The precision is 0.9772727272727273
+The recall is 0.7889908256880734
+The F1-Score is 0.8730964467005076
+The Matthews correlation coefficient is 0.877898502832288
+
+The Classification Report is               precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56853
+           1       0.98      0.79      0.87       109
+
+    accuracy                           1.00     56962
+   macro avg       0.99      0.89      0.94     56962
+weighted avg       1.00      1.00      1.00     56962
+
